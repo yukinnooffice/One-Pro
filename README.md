@@ -1,25 +1,47 @@
-# README
+# 
+おねがいプロテイン！
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+自社プロテイン販売サイト
+管理者のコラムやユーザーの筋トレメモなどを導入
+筋トレした度合いによってカレンダーに草を生やしていく（メモを追加していく毎に肌色から褐色になっていく）
 
-Things you may want to cover:
+### サイトテーマ
+体を大きくしたい、細くしたいなど、その人の価値観にあった商品を提供。
+初心者の方がジムに入りやすくなる様、器具の説明なども紹介。
+女性用の筋トレメニューの考案。
 
-* Ruby version
 
-* System dependencies
+### テーマを選んだ理由
+・コロナで在宅で過ごされる方が増えているため、体型に変化があった人が多くいると思います。
+　このサイトを通じて、お得に健康食品の購入を行っていただき、トレーニー人口を増やしていきたい。
 
-* Configuration
+・また、初心者がジムに入る際、機材の使い方が分からず、右往左往している人の姿をみたので、助け合い理念の布教。
 
-* Database creation
+・無料で使える筋トレメモアプリでいい物がない。このサイトは販売も行っているので質の高いメモ機能も同時に行う事ができる。
 
-* Database initialization
+### ターゲットユーザ
+体型にコンプレックスを抱える人
+もっと体を鍛えたい人
+ダイエットしたい人
 
-* How to run the test suite
+### 主な利用シーン
+プロテインを購入する。
+トレーニングのメモ。
+トレーニング方法を調べる。
 
-* Services (job queues, cache servers, search engines, etc.)
+## 設計書
 
-* Deployment instructions
+### 機能一覧
+https://docs.google.com/spreadsheets/d/1utE0TERuU0QG-gAe4PpS3KcPTXgFzHBL-wEJHkGpQco/edit#gid=0
 
-* ...
-# One-Pro
+
+## 開発環境
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- 仮想環境：Vagrant,VirtualBox
+
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
