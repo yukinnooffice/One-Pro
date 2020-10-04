@@ -71,6 +71,16 @@
 
 ### 設計書
 - - - -
+<br>
+-　管理者側　画面遷移図<br>
+https://app.diagrams.net/#G160_kJCNH4O60dKMUrwmcyS3F8J9LUBtc<br>
+<br>
+<br>
+-　顧客側　画面遷移図<br>
+https://app.diagrams.net/#G160_kJCNH4O60dKMUrwmcyS3F8J9LUBtc<br>
+<br>
+
+
 
 ### 機能一覧
 https://docs.google.com/spreadsheets/d/1utE0TERuU0QG-gAe4PpS3KcPTXgFzHBL-wEJHkGpQco/edit#gid=0
