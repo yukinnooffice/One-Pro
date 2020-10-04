@@ -77,7 +77,7 @@ https://app.diagrams.net/#G160_kJCNH4O60dKMUrwmcyS3F8J9LUBtc<br>
 <br>
 <br>
 -　顧客側　画面遷移図<br>
-https://app.diagrams.net/#G160_kJCNH4O60dKMUrwmcyS3F8J9LUBtc<br>
+https://app.diagrams.net/#G1gtCwuzZZ8sT7YAxon4SSXMUUegZgOKrX<br>
 <br>
 
 
